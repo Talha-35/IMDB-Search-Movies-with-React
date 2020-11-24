@@ -14,7 +14,7 @@ A work about making a IMDB-Search-Movies-with-React
 
 ## These are short promotional photos about this app
 
-<img src= "overview/image1.png" width =180 > <img src= "overview/image2.png" width =180 >
+<img src= "overview/image1.png" width =900 > <img src= "overview/image2.png" width =900 >
 
 ### At the end of the project, following topics are to be covered;
 
