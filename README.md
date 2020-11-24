@@ -10,7 +10,7 @@ A work about making a IMDB-Search-Movies-with-React
 
 ## This is a short video introduction about this app
 
-![screenshot](overview/Screenshot.gif)
+![screenshot](overview/imdb-react.gif)
 
 ## These are short promotional photos about this app
 
