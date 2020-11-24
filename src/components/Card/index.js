@@ -4,7 +4,7 @@ import { StyledCardWrapper ,StyledCardTitle , StyledCardImage } from './Card.sty
 export const Card = ({title , image , date, popularity}) => {
     return (
         <StyledCardWrapper>
-            <StyledCardImage src={image} />
+            <StyledCardImage src={image} alt={"Movie Poster"} />
             <StyledCardTitle>{title}</StyledCardTitle>
             <StyledCardTitle>{date}</StyledCardTitle>
             {/* <StyledCardTitle>{popularity}</StyledCardTitle> */}

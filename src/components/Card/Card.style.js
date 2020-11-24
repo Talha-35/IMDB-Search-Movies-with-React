@@ -31,4 +31,5 @@ export const StyledCardTitle = styled.p`
 export const StyledCardImage = styled.img`
    width: auto;
     height: 85%;
+    color : white ;
 `
