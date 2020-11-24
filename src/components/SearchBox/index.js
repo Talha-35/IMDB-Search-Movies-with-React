@@ -8,7 +8,7 @@ export const SearchBox = ({setSearchKey}) => {
         <StyledSearchWrapper>
             <StyledSearchInput color='#1f1f1f' isColored={false} onChange={(e)=>setInputValue(e.target.value)}/>
             {/* // yukardaki e kısaltması evetn den gelmektedir */}
-            <StyledSearchButton onClick={() => setSearchKey()} >Search</StyledSearchButton>
+            <StyledSearchButton onClick={() => setSearchKey(inputValue)} >Search</StyledSearchButton>
             
         </StyledSearchWrapper>
     )
